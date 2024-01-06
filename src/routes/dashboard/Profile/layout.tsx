@@ -25,17 +25,17 @@ export default component$(() => {
 
             <div class=" flex  w-full justify-evenly rounded-md border-2  bg-rose-500 p-1">
               <div>
-                <Link href='/Profile' class=" rounded-md text-xl font-semibold text-white hover:underline hover:underline-offset-4">
+                <Link href='/dashboard/Profile' class=" rounded-md text-xl font-semibold text-white hover:underline hover:underline-offset-4">
                   Your trips
                 </Link>
               </div>
               <div>
-                <Link href='/Profile/photos' class=" rounded-md text-xl font-semibold text-white hover:underline hover:underline-offset-4">
+                <Link href='/dashboard/Profile/photos' class=" rounded-md text-xl font-semibold text-white hover:underline hover:underline-offset-4">
                   Photos
                 </Link>
               </div>
               <div>
-                <Link href='/Profile/reviews' class=" rounded-md text-xl font-semibold text-white  hover:underline hover:underline-offset-4">
+                <Link href='/dashboard/Profile/reviews' class=" rounded-md text-xl font-semibold text-white  hover:underline hover:underline-offset-4">
                   Review
                 </Link>
               </div>

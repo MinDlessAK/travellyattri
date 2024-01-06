@@ -9,7 +9,7 @@ function index() {
      <div class="flex flex-col gap-5 ">
     <div class="flex  gap-10  flex-col lg:flex-row justify-center ">
 
-<Link href='/Trips/items' class="bg-gray-200  w-80 flex flex-col gap-3 p-3 cursor-pointer rounded-lg hover:scale-105 transition-all duration-300 ease-in-out">
+<Link href='/dashboard/Trips/items' class="bg-gray-200  w-80 flex flex-col gap-3 p-3 cursor-pointer rounded-lg hover:scale-105 transition-all duration-300 ease-in-out">
       <div class="grow">
         <ImgTravel1 class="w-full h-full rounded-lg  " />
       </div>
@@ -24,7 +24,7 @@ function index() {
       </div>
    </Link>
 
-   <Link href='items' class="bg-gray-200  w-80 flex flex-col gap-3 p-3 cursor-pointer rounded-lg hover:scale-105 transition-all duration-300 ease-in-out">
+   <Link href='/dashboard/Trips/items' class="bg-gray-200  w-80 flex flex-col gap-3 p-3 cursor-pointer rounded-lg hover:scale-105 transition-all duration-300 ease-in-out">
       <div class="grow">
         <ImgBeach class="w-full h-full rounded-lg  " />
       </div>
@@ -39,7 +39,7 @@ function index() {
       </div>
    </Link>
 
-   <Link href='items' class="bg-gray-200  w-80 flex flex-col gap-3 p-3 cursor-pointer rounded-lg hover:scale-105 transition-all duration-300 ease-in-out">
+   <Link href='/dashboard/Trips/items' class="bg-gray-200  w-80 flex flex-col gap-3 p-3 cursor-pointer rounded-lg hover:scale-105 transition-all duration-300 ease-in-out">
       <div class="grow">
         <ImgMountain class="w-full h-full rounded-lg  " />
       </div>
@@ -58,7 +58,7 @@ function index() {
 
 <div class="flex  gap-10  flex-col lg:flex-row justify-center ">
 
-<Link href='/Trips/items' class="bg-gray-200  w-80 flex flex-col gap-3 p-3 cursor-pointer rounded-lg hover:scale-105 transition-all duration-300 ease-in-out">
+<Link href='/dashboard/Trips/items' class="bg-gray-200  w-80 flex flex-col gap-3 p-3 cursor-pointer rounded-lg hover:scale-105 transition-all duration-300 ease-in-out">
       <div class="grow">
         <ImgTravel1 class="w-full h-full rounded-lg  " />
       </div>
@@ -73,7 +73,7 @@ function index() {
       </div>
    </Link>
 
-   <Link href='items' class="bg-gray-200  w-80 flex flex-col gap-3 p-3 cursor-pointer rounded-lg hover:scale-105 transition-all duration-300 ease-in-out">
+   <Link href='/dashboard/Trips/items' class="bg-gray-200  w-80 flex flex-col gap-3 p-3 cursor-pointer rounded-lg hover:scale-105 transition-all duration-300 ease-in-out">
       <div class="grow">
         <ImgBeach class="w-full h-full rounded-lg  " />
       </div>
@@ -88,7 +88,7 @@ function index() {
       </div>
    </Link>
 
-   <Link href='items' class="bg-gray-200  w-80 flex flex-col gap-3 p-3 cursor-pointer rounded-lg hover:scale-105 transition-all duration-300 ease-in-out">
+   <Link href='/dashboard/Trips/items' class="bg-gray-200  w-80 flex flex-col gap-3 p-3 cursor-pointer rounded-lg hover:scale-105 transition-all duration-300 ease-in-out">
       <div class="grow">
         <ImgMountain class="w-full h-full rounded-lg  " />
       </div>
